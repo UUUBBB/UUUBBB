@@ -1,33 +1,15 @@
-## Hi there 👋
-
-<!--
-**UUUBBB/UUUBBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hey,That
+# Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+UB.Github!)](https://git.io/typing-svg)
 
 
 A **Student** From 🌏China🌏
 
-💬 [Here Are Ways To Contact Me](https://blog.tigerroot.cn)
+💬 [Here Are Ways To Contact Me](https://laodui.com)
 
 Like 
-[E-mail](mailto:zc.tigerroot@tigerroot.cn)
+[E-mail](mailto:laodui666@gmail.com)
 
-[![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fzhang-chi-72-32&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/zhang-chi-72-32)
 [![哔哩哔哩](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F396791442&query=count&color=282c34&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&labelColor=FE7398&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc%2FpXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8%2FS9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK%2FmKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR%2FRwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I%2FwcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I%2Fw+lgDkdI%2Fv2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3%2FBBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC%2FA8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu%2FZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U%2FH50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F%2FSS%2F9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL%2FL9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td%2FTvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC%2FosSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5%2FSAXmdfXaoQsAAAAASUVORK5CYII%3D&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://space.bilibili.com/396791442)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FZC-TigerRoot&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/ZC-TigerRoot)
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199193649529&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561199193649529)
@@ -37,18 +19,11 @@ Like
 ---
 🐷Status
 
-[![ZC.TigerRoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![UB's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZC-TigerRoot&theme=dark)](https://git.io/streak-stats)
 
-[![ZC.TigerRoot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZC-TigerRoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-Why I'm ALL GREEN!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/ZC-TigerRoot/green)
-
-Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZC-TigerRoot)](https://github.com/anuraghazra/github-readme-stats)
+[![UB's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZC-TigerRoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```
 Gear
